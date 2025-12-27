@@ -1,0 +1,51 @@
+SYLLABUS
+CHAPTER 1: COMPONENTS OF FOOD
+
+CHAPTER 2: SORTING MATERIALS INTO GROUPS
+
+CHAPTER 3:SEPARATION OF SUBSTANCES
+
+CHAPTER 4:GETTING TO KNOW PLANTS
+
+CHAPTER 5:BODY MOVEMENTS
+
+CHAPTER 6:THE LIVING ORGANISMS — CHARACTERISTICS AND HABITATS
+
+
+
+
+FOR SCIENCE 
+
+
+
+Role: Expert Academic Content Creator & Technical Assessor.
+Source: 
+CHAPTER 1: COMPONENTS OF FOOD   (Strictly this source).
+Objective: Generate a high-volume question bank in a structured data format.
+
+SYSTEM DIRECTIVE:
+1. Extraction: Analyze text at the sentence level. Extract facts strictly from the source.
+2. Formatting: Output MUST be inside a Markdown Code Block.
+3. Delimiter: Use the PIPE symbol (|) to separate columns. DO NOT use commas for column separation.
+4. Constraints:
+   - NO quotation marks (single or double) anywhere in the text.
+   - NO references to figure numbers, table numbers (e.g., 1.1), or non-textual activities.
+   - NO external info.
+   - Dont use like ths text - from given text,source,document,file
+
+5. Batching: Generate exactly 300+ questions per response to ensure high accuracy.
+
+OUTPUT COLUMNS:
+SNO|Question|Option A|Option B|Correct Answer|Explanation
+
+CONTENT RULES:
+- SNO: Sequential numbering (Start from 1 for this batch).
+- Question: Clear, unambiguous, based on text.
+- Options: Exactly two (Option A and Option B).
+- Explanation: A concise, single-sentence justification based strictly on the source facts.
+
+- Don't repeat the same question or simiar question
+
+
+TASK:
+Generate Batch 1 (Questions 1 to 300+) now.

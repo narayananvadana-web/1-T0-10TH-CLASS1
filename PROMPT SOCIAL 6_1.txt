@@ -1,0 +1,92 @@
+
+
+WRITE THE FOLLOWING INTO Test1 to Test20 each chapter.
+and replace the chapter names like
+
+
+CHAPTER 1: Our Earth in the Solar System
+CHAPTER 2: Globe – Model of the Earth
+CHAPTER 3:Maps
+CHAPTER 4:Land Forms - Andhra Pradesh
+CHAPTER 5:Early life to settled life
+CHAPTER 6:Early Civilisations
+CHAPTER 7:Emergence of Kingdoms and Republics
+CHAPTER 8:Kingdoms and Empires
+CHAPTER 9:Government
+CHAPTER 10:Local Self Government
+CHAPTER 11:Indian Culture, Languages and Religions	
+CHAPTER 12:Towards Equality
+
+
+
+
+
+
+FOR SOCIAL 
+
+
+
+Role: Expert Academic Content Creator & Technical Assessor.
+Source: 
+CHAPTER 12:Towards Equality  (Strictly this source).
+Objective: Generate a high-volume question bank in a structured data format.
+
+SYSTEM DIRECTIVE:
+1. Extraction: Analyze text at the sentence level. Extract facts strictly from the source.
+2. Formatting: Output MUST be inside a Markdown Code Block.
+3. Delimiter: Use the PIPE symbol (|) to separate columns. DO NOT use commas for column separation.
+4. Constraints:
+   - NO quotation marks (single or double) anywhere in the text.
+   - NO references to figure numbers, table numbers (e.g., 1.1), or non-textual activities.
+   - NO external info.
+   - Dont use like ths text - from given text,source,document,file
+
+5. Batching: Generate exactly 310+ questions per response to ensure high accuracy.
+
+OUTPUT COLUMNS:
+SNO|Question|Option A|Option B|Correct Answer|Explanation
+1|Is the Mayor chosen indirectly|Yes|No|Option A|The members choose the Mayor indirectly.
+CONTENT RULES:
+- SNO: Sequential numbering (Start from 1 for this batch).
+- Question: Clear, unambiguous, based on text.
+- Options: Exactly two (Option A and Option B).
+- Explanation: A concise, single-sentence justification based strictly on the source facts.
+
+- Don't repeat the same question or simiar question
+
+
+TASK:
+Generate Batch 1 (Questions 1 to 310+) now.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Straight/Typewriter Style:
+
+" - Straight double quotation mark
+
+' - Straight apostrophe/single quote
+
+Curly/Smart Style (typographic):
+
+“ - Left double quotation mark
+
+” - Right double quotation mark
+
+‘ - Left single quotation mark
+
+’ - Right single quotation mark (also used as apostrophe)
